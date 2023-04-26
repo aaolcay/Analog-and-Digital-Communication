@@ -5,6 +5,11 @@ In both analog and digital communications, there are 2 types of communication in
 ### 1.a) Baseband Communication:
 
 1. Analog Baseband Communication - In this technique, the original signal is transmitted without modulation. It is typically used in low-bandwidth applications such as voice communication.
+1.1. An Example of Analog Baseband Communication
+- In active sonar applications, the signal that is transmitted and received is an analog acoustic wave.
+- The communication in sonar refers to the exchange of information between the sonar system and the environment, such as the reflection of the acoustic wave by objects in the environment.
+- The communication technique used in sonar applications is an analog baseband communication, as the signal being transmitted and received is an analog acoustic wave.
+- Signal processing techniques such as pulse compression, matched filtering, and beamforming are typically used to enhance the detection and extraction of information from the received acoustic wave and improve the signal-to-noise ratio (SNR) of the received signal.
 ### 1.b) Carrier Communication:
 
 1. Amplitude Modulation (AM) - In AM, the amplitude of the carrier signal is varied in proportion to the modulating signal. This technique is commonly used in broadcasting radio signals.
