@@ -43,4 +43,5 @@ In both analog and digital communications, there are 2 types of communication in
 10. Amplitude Shift Keying (ASK) - In ASK, the amplitude of the carrier signal is varied to represent digital data. It is commonly used in applications such as RFID and remote controls.
 11. On-Off Keying (OOK) - In OOK, the presence or absence of the carrier signal is varied to represent digital data. It is commonly used in optical communication systems.
 12. Pulse Amplitude Modulation (PAM) - In PAM, the amplitude of a series of pulses is varied to represent digital data. It is commonly used in digital communication systems such as Ethernet and fiber-optic communication.
-#### Note that this is not an exhaustive list, and there may be additional techniques within each category.
+#### Note-1: This is not an exhaustive list, and there may be additional techniques within each category.
+#### Note-2: In general, the type of communication is referred to as analog or digital based on whether the message signal being transmitted is analog or digital. If the message signal is analog, then the communication is typically referred to as analog communication, while if the message signal is digital, then the communication is typically referred to as digital communication.
